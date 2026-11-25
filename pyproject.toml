@@ -1,0 +1,7 @@
+[project]
+name = "getchar"
+version = "0.1.0"
+description = "PNG 批量清理：保留大图及其下划线版本，删除无对应关系的小图"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
