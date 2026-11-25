@@ -1,7 +1,7 @@
 [project]
-name = "getchar"
+name = "png-cleaner"
 version = "0.1.0"
-description = "PNG 批量清理：保留大图及其下划线版本，删除无对应关系的小图"
+description = "按大小规则批量清理 PNG：保留大图及其下划线版本"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
